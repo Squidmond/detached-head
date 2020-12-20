@@ -1,0 +1,1 @@
+First line of file7.txt in detach HEAD branch
